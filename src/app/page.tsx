@@ -5,17 +5,13 @@ import {
   SignUpButton,
   SignedIn,
   UserButton,
+  SignInWithMetamaskButton,
 } from "@clerk/nextjs";
 
 export default function Home() {
   return (
     <div className="m-10">
-      <SignedOut>
-        <SignInButton />
-      </SignedOut>
-      <SignedIn>
-        <UserButton />
-      </SignedIn>
+      <SignInButton></SignInButton>
     </div>
   );
 }
