@@ -39,7 +39,7 @@ Hiresync is a real-time coding interview platform built for both interviewers an
 | 🛠 Setup Meeting     | ![SetupMeeting](./public/SetupMeeting.jpg) |
 | 💬 Meeting Room     | ![MeetingRoom](./public/MeetingRoom.jpg) |
 | 📹 Recording        | ![RecordingPage](./public/RecordingPage.jpg) |
-| 👨‍💻 Interview Page | ![InterViewPage](./public/InterViewPage.jpg) |
+| 👨‍💻 Interview Page | ![InterViewPage](./public/InterviewPage.jpg) |
 
 ---
 
